@@ -1,11 +1,11 @@
-# Demo
+# Demo 
 
-Some description!
+Some Descript
 
 ## Subheader
 
-Watching all.
+Watching ALLdd
 
-## Local Development
+## Local DEvs
 
-1. Open index.html in your browser.
+1. Open index.html in your browser
